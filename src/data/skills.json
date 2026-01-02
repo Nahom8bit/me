@@ -1,0 +1,58 @@
+{
+    "categories": [
+        {
+            "name": "Design & Branding",
+            "skills": [
+                "Logo design and brand identity systems",
+                "UI/UX design for software products",
+                "Marketing materials and social media content"
+            ],
+            "tools": [
+                "Adobe Photoshop",
+                "Illustrator"
+            ]
+        },
+        {
+            "name": "Software Development",
+            "skills": [
+                "Languages: Go, Python, JavaScript",
+                "Focus areas: POS systems, inventory management, business automation"
+            ],
+            "projects": "Currently building retail management software for East African markets"
+        },
+        {
+            "name": "Business",
+            "skills": [
+                "Market research and competitive analysis",
+                "Product strategy and MVP planning",
+                "Operations optimization for retail businesses"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "name": "Tigrigna",
+            "proficiency": "Native"
+        },
+        {
+            "name": "English",
+            "proficiency": "Fluent"
+        },
+        {
+            "name": "Amharic",
+            "proficiency": "Fluent"
+        },
+        {
+            "name": "Portuguese",
+            "proficiency": "Conversational"
+        },
+        {
+            "name": "Japanese",
+            "proficiency": "Basic"
+        },
+        {
+            "name": "Arabic",
+            "proficiency": "Basic"
+        }
+    ]
+}

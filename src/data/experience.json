@@ -1,0 +1,32 @@
+{
+    "experiences": [
+        {
+            "title": "Freelance Designer & Developer",
+            "period": "2020–Present",
+            "description": "Independent work serving local businesses and international clients",
+            "responsibilities": [
+                "Brand identity design for local retail and service businesses",
+                "UI/UX design for software products and digital platforms",
+                "Custom graphic design for marketing campaigns and social media",
+                "Software development for inventory and sales management systems"
+            ],
+            "highlights": [
+                "Designed brand identities for 10+ local businesses",
+                "Built internal POS system prototypes for retail clients",
+                "Created marketing materials for apparel and service companies"
+            ],
+            "current": true
+        }
+    ],
+    "approach": {
+        "title": "Approach",
+        "philosophy": "I don't believe in waiting for perfect conditions. I believe in starting with what you have and improving as you go.",
+        "process": [
+            "Identify the real problem (not just what people say they want)",
+            "Build the simplest version that solves it",
+            "Test with actual users",
+            "Iterate based on what breaks"
+        ],
+        "values": "I care about work that creates tangible value—systems that help businesses run better, brands that help products sell, software that solves real operational problems."
+    }
+}

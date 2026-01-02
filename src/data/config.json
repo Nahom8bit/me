@@ -1,0 +1,37 @@
+{
+    "site": {
+        "title": "Nahom Daniel Negash - Portfolio",
+        "description": "Business Developer, Software Builder, and Brand Designer specializing in solutions for African markets.",
+        "url": "https://nahomdaniel.com",
+        "lastUpdated": "January 2026"
+    },
+    "theme": {
+        "primaryColor": "#2563eb",
+        "accentColor": "#10b981",
+        "backgroundColor": "#ffffff",
+        "textColor": "#1f2937"
+    },
+    "features": {
+        "darkMode": true,
+        "analytics": true,
+        "contactForm": true,
+        "blog": false
+    },
+    "social": {
+        "showGithub": true,
+        "showLinkedIn": true,
+        "showTwitter": false,
+        "showInstagram": false
+    },
+    "seo": {
+        "keywords": [
+            "business development",
+            "software developer",
+            "brand designer",
+            "POS systems",
+            "African markets"
+        ],
+        "author": "Nahom Daniel Negash",
+        "ogImage": "/images/og-image.jpg"
+    }
+}

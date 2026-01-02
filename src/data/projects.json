@@ -1,0 +1,80 @@
+{
+    "projects": [
+        {
+            "id": "dikuan-pos",
+            "name": "Dikuan POS",
+            "tagline": "A point-of-sale system designed for small retailers in East Africa.",
+            "description": "Built to solve real operational challenges faced by small retailers in markets with unreliable internet and limited tech infrastructure.",
+            "features": [
+                "Inventory tracking and low-stock alerts",
+                "Sales reporting and analytics",
+                "Customer and supplier management",
+                "Offline-first design for unreliable internet"
+            ],
+            "status": "In development",
+            "statusDetail": "Building initial version in Go with a focus on speed and reliability.",
+            "tech": [
+                "Go",
+                "SQLite",
+                "JavaScript"
+            ],
+            "links": {
+                "github": "https://github.com/Nahom8bit/dikuan-pos",
+                "demo": null,
+                "docs": null
+            },
+            "images": [
+                "/images/projects/dikuan-pos/screenshot1.jpg",
+                "/images/projects/dikuan-pos/screenshot2.jpg"
+            ],
+            "featured": true,
+            "order": 1
+        },
+        {
+            "id": "diy-addis",
+            "name": "DIY Addis",
+            "tagline": "Affordable, space-saving furniture for urban Ethiopian apartments.",
+            "description": "Flat-pack designs that customers can assemble themselves. Focus on maximizing function in small spaces while keeping costs low.",
+            "features": [
+                "Wall-mounted foldable desks",
+                "Corner shelving units",
+                "Modular storage systems"
+            ],
+            "status": "Product design phase",
+            "statusDetail": "Currently finalizing first three product prototypes.",
+            "tech": null,
+            "links": {
+                "website": null,
+                "instagram": null,
+                "catalog": "/documents/diy-addis-catalog.pdf"
+            },
+            "images": [
+                "/images/projects/diy-addis/desk-render.jpg",
+                "/images/projects/diy-addis/shelf-prototype.jpg"
+            ],
+            "featured": true,
+            "order": 2
+        },
+        {
+            "id": "adey-threads",
+            "name": "Adey Threads",
+            "tagline": "Print-on-demand apparel celebrating Eritrean and Habesha cultural identity.",
+            "description": "Modern interpretations of traditional Eritrean designs on t-shirts, hoodies, and accessories.",
+            "features": null,
+            "status": "Brand development stage",
+            "statusDetail": "Working on initial design collection and production partnerships.",
+            "tech": null,
+            "links": {
+                "website": null,
+                "instagram": null,
+                "store": null
+            },
+            "images": [
+                "/images/projects/adey-threads/logo.jpg",
+                "/images/projects/adey-threads/design-mockup.jpg"
+            ],
+            "featured": true,
+            "order": 3
+        }
+    ]
+}

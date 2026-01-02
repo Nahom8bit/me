@@ -1,0 +1,28 @@
+{
+  "name": "Nahom Daniel Negash",
+  "title": "Business Developer • Software Builder • Brand Designer",
+  "location": {
+    "city": "Huambo",
+    "country": "Angola",
+    "note": "Working with clients across East Africa"
+  },
+  "contact": {
+    "email": "nahomdaniel.n@gmail.com",
+    "phone": "+244 923 882 892",
+    "github": "https://github.com/Nahom8bit",
+    "linkedin": "https://linkedin.com/in/nahom-daniel-a81113367"
+  },
+  "profileImage": "/images/profile/nahom.jpg",
+  "bio": {
+    "tagline": "I help small businesses solve operational problems through a combination of design, software, and business strategy.",
+    "description": [
+      "My work sits at the intersection of three disciplines: business development, design, and software.",
+      "I'm self-taught across all three areas. My approach is hands-on and practical—I focus on what works in real-world conditions, particularly for African small and medium businesses."
+    ]
+  },
+  "availability": {
+    "status": "available",
+    "for": ["Freelance projects", "Collaborations", "Partnerships"],
+    "responseTime": "Usually within 24 hours"
+  }
+}
