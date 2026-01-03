@@ -1,4 +1,4 @@
-# Nahom Daniel Negash - Personal Portfolio
+# Personal Portfolio
 
 A modular, JSON-driven personal portfolio website built with Next.js 15, TypeScript, and Tailwind CSS.
 
